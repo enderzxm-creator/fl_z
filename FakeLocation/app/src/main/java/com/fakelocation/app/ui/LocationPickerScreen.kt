@@ -96,7 +96,7 @@ fun LocationPickerScreen(
             ) {
                 Column {
                     Text(
-                        text = "FakeLocation",
+                        text = "myfl",
                         style = MaterialTheme.typography.headlineMedium,
                         fontWeight = FontWeight.Bold
                     )

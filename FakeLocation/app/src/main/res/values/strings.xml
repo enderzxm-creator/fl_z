@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FakeLocation</string>
+    <string name="app_name">myfl</string>
     <string name="service_channel_name">模拟定位服务</string>
     <string name="service_channel_desc">持续推送模拟位置信息</string>
     <string name="service_notification_title">模拟定位运行中</string>
