@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FakeLocation</string>
+    <string name="service_channel_name">模拟定位服务</string>
+    <string name="service_channel_desc">持续推送模拟位置信息</string>
+    <string name="service_notification_title">模拟定位运行中</string>
+    <string name="service_notification_text">正在推送位置: %1$.6f, %2$.6f</string>
+    <string name="service_notification_stopped">模拟定位已停止</string>
+    <string name="btn_start">启动模拟定位</string>
+    <string name="btn_stop">停止模拟定位</string>
+    <string name="btn_settings">设置</string>
+    <string name="hint_latitude">纬度</string>
+    <string name="hint_longitude">经度</string>
+    <string name="preset_locations">预设地点</string>
+    <string name="status_idle">未运行</string>
+    <string name="status_running">运行中</string>
+    <string name="current_location">当前坐标</string>
+    <string name="settings_jitter">坐标抖动模拟</string>
+    <string name="settings_jitter_desc">模拟真实 GPS 的轻微位置抖动</string>
+    <string name="settings_jitter_range">抖动幅度（米）</string>
+    <string name="settings_interval">更新频率</string>
+    <string name="settings_accuracy">定位精度（米）</string>
+    <string name="settings_altitude">海拔（米）</string>
+    <string name="interval_1s">每 1 秒</string>
+    <string name="interval_2s">每 2 秒</string>
+    <string name="interval_5s">每 5 秒</string>
+    <string name="warning_no_mock_permission">请先在开发者选项中将本应用设为「模拟位置信息应用」</string>
+    <string name="warning_no_notification_permission">需要通知权限以保持后台运行</string>
+    <string name="title_settings">设置</string>
+    <string name="tab_map">地图</string>
+    <string name="tab_settings">设置</string>
+</resources>
